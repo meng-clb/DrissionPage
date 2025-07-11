@@ -1,11 +1,9 @@
 {
   "$schema": "https://context7.com/schema/context7.json",
   "projectTitle": "DrissionPage",
-  // 抓取整个仓库根目录
   "folders": ["."],
-  // 如果你希望显式抓取 README、CHANGELOG 或 docs 子目录下的 md
   "docPaths": ["README.md", "CHANGELOG.md", "docs/**/*.md"],
-  // 外部官网文档入口
+  "snippetPaths": ["README.md", "CHANGELOG.md", "docs/**/*.md"],  // ⬅ 新增
   "externalDocs": [
     {
       "title": "DrissionPage 官方文档",
