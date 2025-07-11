@@ -1,0 +1,11 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "DrissionPage",
+  "folders": ["DrissionPage"],
+  "externalDocs": [
+    {
+      "title": "DrissionPage 官方文档",
+      "url": "https://www.drissionpage.cn/"
+    }
+  ]
+}
